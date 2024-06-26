@@ -25,7 +25,7 @@ Knight Phobia is a side-scrolling game built using Python and Pygame. The player
 3. Run `python knightphobia.py` from the command line.
 
 ## Credits
-- Created by [Your Name/Username]
+- Created by sandy25x
 - Based on Pygame community contributions and tutorials.
 
 ## License
