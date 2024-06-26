@@ -68,7 +68,7 @@ START_SCREEN_IMG.blit(BACKGROUND_IMG, (0, 0))
 PLAY_BUTTON_IMG = pygame.image.load('play_button.png')
 PLAY_BUTTON_RECT = PLAY_BUTTON_IMG.get_rect(center=(SCREEN_WIDTH // 2, SCREEN_HEIGHT // 2))
 GAME_NAME = "Knight Phobia"
-CREATOR_TEXT = "Created by sandyx25"
+CREATOR_TEXT = "Created by sandy25x"
 
 class Knight:
     def __init__(self):
