@@ -45,7 +45,7 @@ GHOST_IMG = pygame.transform.scale(GHOST_IMG, (50, 50))
 
 # Load witch frames from extracted images
 WITCH_FRAMES = []
-witch_frames_dir = 'c:\\Users\\minij\\Downloads\\knight phobia\\witch_frames'  # Adjust this path
+witch_frames_dir = 'c:\\Users\\yourpc\\Downloads\\knight phobia\\witch_frames'  # Adjust this path
 witch_frame_files = sorted([f for f in os.listdir(witch_frames_dir) if f.startswith('witch') and f.endswith('.png')])
 for frame_file in witch_frame_files:
     img = pygame.image.load(os.path.join(witch_frames_dir, frame_file))
