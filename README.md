@@ -12,9 +12,10 @@ Game Over and Retry: When the knight collides with an obstacle, the game ends, a
 High Score Tracking: The game tracks and displays the highest score achieved during gameplay.
 Background Animation: Continuous scrolling background adds depth to the game environment.
 Difficulty Scaling: After reaching a score of 25, obstacle speed slightly increases, intensifying gameplay.
+
 Files Included:
 
-knightphobia.py: Main Python script containing game logic and setup.
+'knightphobia.py': Main Python script containing game logic and setup.
 dragon.png, zombie.png, giant.png, ghost.png: Images used for obstacles.
 Creepster-Regular.ttf: Font file for game text.
 castle_background.png: Background image for game scenes.
@@ -24,6 +25,7 @@ How to Run:
 Ensure Python and Pygame are installed on your system.
 Download or clone the repository.
 Run python knightphobia.py from the command line.
+
 Credits:
 
 Created by sandy25x
