@@ -32,4 +32,4 @@ Knight Phobia is a side-scrolling game built using Python and Pygame. The player
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Screenshots
-[image info](screenshot (308).png)
+[!image info](Screenshot (308).png)
